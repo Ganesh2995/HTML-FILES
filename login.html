@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Using HTML, CSS changes the appearance of a form if any of its childern are focused</title>
+<style>
+form
+{
+border:20px solid #CCBC82;
+padding:8px;
+border-radius:2px;
+}
+form:focus-within
+{
+background:#7CF0BD;
+}
+label
+{
+display:inline-block;
+width:72px;
+}
+input
+{
+margin:4px 12px;
+}
+</style>
+</head>
+<body>
+<form>
+<label for="username">Username:</label>
+<input id="username"type="text"/>
+<br>
+<label for="Password">Password:</label>
+<input for="password"type="password"/>
+<br>
+<label for="Submit"type="Submit"></label>
+<input type="button" value="Log in">
+</form>
+</body>
+</html>
