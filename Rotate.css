@@ -1,0 +1,15 @@
+#triangle
+{
+width:0;
+height:0;
+border-left:100px solid transparent;
+border-right:100px solid transparent;
+border-bottom:200px solid blue;
+}
+
+.rotate{animation:rotation 1s infinite linear;}
+@keyframes rotation
+{
+from{transform:rotate(45deg);}
+to{transform:rotate(360deg);}
+}

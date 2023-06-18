@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Pulse</title>
+<link rel="stylesheet" href="pulse.css">
+</head>
+<body>
+<center>
+<div class="pulse"></div>
+</center>
+</body>
+</html>

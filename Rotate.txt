@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>CSS Shapes</title>
+<link rel="stylesheet" href="Rotate.css">
+</head>
+<body>
+<h1>Triangle</h1><br><br>
+<div id="triangle" class="rotate"></div>
+</body>
+</html>

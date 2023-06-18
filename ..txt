@@ -1,0 +1,27 @@
+.
+board
+{
+display:grid;
+grid-template-columns:repeat(8,64px);
+}
+.square
+{
+width:64px;
+height:64px;
+background:black;
+}
+.square:nth-child(1),
+.square:nth-child(3),
+.square:nth-child(5),
+.square:nth-child(7),
+.square:nth-child(10),
+.square:nth-child(12),
+.square:nth-child(14),
+.square:nth-child(16),
+.square:nth-child(17),
+.square:nth-child(19),
+.square:nth-child(21),
+{
+background-color:teal;}
+table{border:10px solid blue;
+}

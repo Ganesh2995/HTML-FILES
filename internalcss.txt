@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>CSS BOX MODE</title>
+<style>
+div
+{
+background-colour:lightgrey;
+width:300px;
+border:10=px solid blue;
+padding:30px;
+margin:20px;
+}
+</style>
+</head>
+<body>
+<h1>Internal CSS BOX MODEL</h1>
+<hr>
+<div>Hi SIC! This is a single line paragraph.</div>
+</body>
+</html>

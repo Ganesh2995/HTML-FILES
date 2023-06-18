@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Strips </title>
+<link rel="stylesheet" href="stripstyle.css"
+</head>
+<body>
+<br><br><br>
+<center>
+<div class="stripestyle"></div>
+</center>
+</body>
+</html>

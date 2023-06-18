@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> Anchor Tags </title>
+</head>
+<h1> Web Page using Anchor Tags </h1>
+<hr>
+<p>
+<b> Using Anchor Tags within HTML Page</B>
+<br>
+<a href="bottom"> Click here to go bottom page </a>
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<p>
+<a href="bottom">This is bottom of the page</a> </p>
+<p>
+<b> Using Anchor tag for linking multiple Web Page </b>
+<br>
+<a href=3a.Anchor_Tags.html">Click here to go another page</a></p>
+
+<hr>
+</body>
+</html>
+
+Link page
+<html>
+<head>
+<title>Anchor Tag </title>
+</head>
+<body>
+<h1> Web Page using Anchor Tags </h1>
+<hr>
+<p>
+<b>Linking multiple Web Pages</b>
+</p>
+<hr>
+</body>
+</html>

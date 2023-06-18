@@ -1,0 +1,21 @@
+<style>
+form
+{
+border:2px solid black;
+padding:8px;
+border-radius:2px;
+}
+form:focus-within
+{
+background:green;
+}
+label
+{
+display:inline-block;
+width:72px;
+}
+input
+{
+margin:4px 12px;
+}
+</style>

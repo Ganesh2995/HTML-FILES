@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> HTML using Inline CSS </title>
+<body>
+<p style="color:red">Hi Welcome to SIC!</p>
+<h1 style="color:green">THANK YOU ALL</h1>
+</body>
+</html>

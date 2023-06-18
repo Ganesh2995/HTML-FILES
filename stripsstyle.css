@@ -1,0 +1,9 @@
+.stripsstyle
+{
+width:1000px;
+height:500px;
+background-image:linear-gradient(45deg, yellow 60%, green 40%);
+background-size:100px 90px;
+background-repeat:repeat;
+border:10px solid red;
+}
